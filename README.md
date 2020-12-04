@@ -4,6 +4,12 @@ Examples of a Thinnest Viable Platform (TVP) as defined in the book Team Topolog
 
 > A TVP is a careful balance between keeping the platform small and ensuring that the platform is helping to accelerate and simplify software delivery  for teams building on the platfom. (p.101, _Team Topologies_)
 
+This material is based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@matthewskelton](https://github.com/matthewskelton) and Manuel Pais [@manupaisable](https://github.com/manupaisable).
+
+> See [teamtopologies.com](https://teamtopologies.com/) for more details about Team Topolologies.
+
+> Copyright © 2018-2020 [Team Topologies](https://teamtopologies.com/) - Licenced under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
+
 ## Canonical example of TVP
 
 The ABC Corp example is perhaps the simplest infrastructure platform imaginable: just a list of cloud services and some default configuration.
