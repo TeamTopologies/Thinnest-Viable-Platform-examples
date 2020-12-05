@@ -18,6 +18,8 @@ The ABC Corp example is perhaps the simplest infrastructure platform imaginable:
 
 ### ABC Corp cloud platform
 
+[ABC Corp logo](images/ABC-Corp-logo.jpg)
+
 We use the [Serverless Framework](https://www.serverless.com/) to simplify access to AWS serverless services. Use these AWS services via Serverless to build apps for ABC Corp:
 
 * AWS DynamoDB
