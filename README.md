@@ -45,3 +45,9 @@ Use our credentials setup tool, `credible`, to set up your credentials for the S
 * [Link to `credible` tool]
 
 ---
+
+## Thinnest Viable Platform (TVP) Example using a Data Platform
+
+See [Thinnest Viable Platform (TVP) Example using a Data Platform](https://github.com/sbalnojan/TVP-example) by [@sbalnojan](https://github.com/sbalnojan)
+
+---
