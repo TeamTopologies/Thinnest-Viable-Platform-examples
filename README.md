@@ -2,7 +2,7 @@
 
 Examples of a Thinnest Viable Platform (TVP) as defined in the book Team Topologies. 
 
-> A TVP is a careful balance between keeping the platform small and ensuring that the platform is helping to accelerate and simplify software delivery  for teams building on the platfom. (p.101, _Team Topologies_)
+> A TVP is a careful balance between keeping the platform small and ensuring that the platform is helping to accelerate and simplify software delivery  for teams building on the platform. (p.101, _Team Topologies_)
 
 This material is based on some of the ideas in the book _Team Topologies_ by Matthew Skelton [@matthewskelton](https://github.com/matthewskelton) and Manuel Pais [@manupaisable](https://github.com/manupaisable).
 
