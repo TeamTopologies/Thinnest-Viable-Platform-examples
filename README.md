@@ -55,3 +55,10 @@ Use our credentials setup tool, `credible`, to set up your credentials for the S
 See [Thinnest Viable Platform (TVP) Example using a Data Platform](https://github.com/sbalnojan/TVP-example) by [@sbalnojan](https://github.com/sbalnojan)
 
 ---
+
+## Trade Me’s Journey Towards a Thinnest Viable Platform (TVP)
+
+This industry example from the Team Topologies website shows TVP in action: https://teamtopologies.com/industry-examples/trade-me-journey-towards-a-thinnest-viable-platform
+
+"We use TVP principles to define our approach to building future platforms and services. In our definition, platforms are building blocks that abstract away the complexity of infrastructure, which reduces teams' cognitive load, making delivering value to our customers easier and faster."
+
